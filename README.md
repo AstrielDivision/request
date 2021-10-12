@@ -1,4 +1,4 @@
-# template
+# Echo
 
 <div align="center">
 
@@ -7,23 +7,9 @@
 
 </div>
 
-## Template
+## Fork
 
-- Replace words that have "Template" with whatever the project name is.
-- Always make sure the primary branch name is "main".
-- Branch protections should be on for the main branch.
-- Enable Pages
-- Don't forget to remove this part too!
-
-**This template was inspired from the [sapphire-template!](https://github.com/sapphiredev/sapphire-template)**
-
-## Features
-
-- Literally
-- Nothing
-- Much
-- Right
-- Now
+This is a fork of centra ([origin](https://github.com/ethanent/centra)) Licensed under the MIT License.
 
 ## License
 

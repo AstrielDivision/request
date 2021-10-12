@@ -2,6 +2,7 @@
   "extends": "@astriel-division/ts-config/src/tsconfig.json",
   "compilerOptions": {
     "outDir": "./opt",
+    "esModuleInterop": true
   },
   "include": ["*.test.ts"]
 }

@@ -2,6 +2,8 @@
   "extends": "@astriel-division/ts-config/src/tsconfig.json",
   "compilerOptions": {
     "outDir": "../build",
+    "declaration": true,
+    "declarationDir": "../build/typings"
   },
   "include": [".", "lib/**/*.ts"],
   "exclude": ["node_modules", "tests"]

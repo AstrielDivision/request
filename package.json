@@ -1,5 +1,5 @@
 {
-  "name": "@astriel-division/template",
+  "name": "@astriel-division/request",
   "version": "1.0.0",
   "scripts": {
     "build": "yarn clean && yarn build:ts",
@@ -53,5 +53,8 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "ws": "^8.2.3"
   }
 }

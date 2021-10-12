@@ -1,10 +1,16 @@
 import { equal } from 'assert'
-import * as index from '../src/index'
+import request from '../src/index'
 
-export function testAdd() {
-	equal(1 + 2, 3)
+export async function get() {
+  equal(typeof await request('https://jsonplaceholder.typicode.com/posts/1').send(), 'object')
 }
 
-export function testIndex() {
-  equal(index.world(), 'hello world!')
+export async function post() {
+  const req = await request('https://jsonplaceholder.typicode.com/posts', 'POST').body({
+    title: 'foo',
+    body: 'bar',
+    userId: 1
+  }, 'json').send()
+
+  equal(typeof req.json, 'object')
 }
