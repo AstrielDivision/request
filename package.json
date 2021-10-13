@@ -13,7 +13,7 @@
   "devDependencies": {
     "@astriel-division/eslint-config": "1.1.6",
     "@astriel-division/ts-config": "1.0.5",
-    "@commitlint/cli": "13.2.0",
+    "@commitlint/cli": "13.2.1",
     "@commitlint/config-conventional": "13.2.0",
     "@types/node": "16.7.10",
     "cz-conventional-changelog": "3.3.0",
