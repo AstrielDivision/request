@@ -11,7 +11,7 @@
     "commit": "git-cz"
   },
   "devDependencies": {
-    "@astriel-division/eslint-config": "1.1.6",
+    "@astriel-division/eslint-config": "1.1.8",
     "@astriel-division/ts-config": "1.0.5",
     "@commitlint/cli": "13.2.0",
     "@commitlint/config-conventional": "13.2.0",
