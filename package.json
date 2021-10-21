@@ -18,7 +18,7 @@
     "@types/node": "16.7.10",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "8.0.0",
-    "husky": "7.0.2",
+    "husky": "7.0.4",
     "lint-staged": "11.2.3",
     "rimraf": "3.0.2",
     "standard-version": "9.3.1",
