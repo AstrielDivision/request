@@ -38,7 +38,7 @@ __metadata:
     rimraf: 3.0.2
     standard-version: 9.3.1
     typescript: 4.4.4
-    xv: 1.0.2
+    xv: 1.1.1
   languageName: unknown
   linkType: soft
 
@@ -4627,12 +4627,12 @@ typescript@4.4.2:
   languageName: node
   linkType: hard
 
-"xv@npm:1.0.2":
-  version: 1.0.2
-  resolution: "xv@npm:1.0.2"
+"xv@npm:1.1.1":
+  version: 1.1.1
+  resolution: "xv@npm:1.1.1"
   bin:
     xv: lib/bin.js
-  checksum: e4383dd77018b60d7608ca389332624408d533288c7ee20d3211acde39395c48151b543f89664b92aff056d1646b77da0c8d6bc591adcf7b3cbbc213245b6227
+  checksum: c051eec0ba04384668d9ef80da4a603e458601492c73d66113e36005edffa00c49ea6af24a92a80698502a6c92dcc7210caf2c030ad6060323c1828d637b1e49
   languageName: node
   linkType: hard
 
