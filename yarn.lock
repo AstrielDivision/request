@@ -30,7 +30,7 @@ __metadata:
     "@astriel-division/ts-config": 1.0.5
     "@commitlint/cli": 13.2.1
     "@commitlint/config-conventional": 13.2.0
-    "@types/node": 16.7.10
+    "@types/node": 16.11.41
     cz-conventional-changelog: 3.3.0
     eslint: 8.0.0
     husky: 7.0.2
@@ -400,10 +400,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:16.7.10":
-  version: 16.7.10
-  resolution: "@types/node@npm:16.7.10"
-  checksum: 0518803caa1a14f4070e770a280eda1c4b4581a425cbda481cdd54b1f34a7ea497ff067fd23b90e3d4f4fdcfba15c1316182875e9cf9f5b2e880de1e595de053
+"@types/node@npm:16.11.41":
+  version: 16.11.41
+  resolution: "@types/node@npm:16.11.41"
+  checksum: 808e4d65757bb13cf25e88dfa4e65880efef06652b04baecb051eb90cf090dda9812aa3505b31e963a48041eed7dbe0fc59c44c7c5e117da952ff951bf3a584a
   languageName: node
   linkType: hard
 
